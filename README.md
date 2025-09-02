@@ -1,4 +1,4 @@
-<h1 align="center">📞 KontakKu - Personal Contact Management System </h1>
+<h1 align="center">📞 MyContacts - Personal Contact Management System </h1>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/React%20JS-%2361DAFB?style=for-the-badge&logo=react&labelColor=000000" />
