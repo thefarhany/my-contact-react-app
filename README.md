@@ -13,7 +13,7 @@
   " />
 </p>
 
-KontakKu adalah aplikasi manajemen kontak pribadi yang dibangun dengan React.js dan teknologi modern. Aplikasi ini memungkinkan pengguna untuk mengelola daftar kontak dengan fitur CRUD lengkap, pencarian, dan filter yang responsif.
+MyContacts adalah aplikasi manajemen kontak pribadi yang dibangun dengan React.js dan teknologi modern. Aplikasi ini memungkinkan pengguna untuk mengelola daftar kontak dengan fitur CRUD lengkap, pencarian, dan filter yang responsif.
 
 ## ✨ Features
 
