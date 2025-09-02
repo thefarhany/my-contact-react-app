@@ -72,7 +72,7 @@ KontakKu adalah aplikasi manajemen kontak pribadi yang dibangun dengan React.js 
 1. **Clone repository**
 
    ```bash
-   git clone https://github.com/thefarhany/kontakku.git
+   git clone https://github.com/thefarhany/my-contact-react-app.git
    cd kontakku
    ```
 
